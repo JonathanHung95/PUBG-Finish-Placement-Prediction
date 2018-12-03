@@ -3,8 +3,6 @@ PUBG Exploratory Data Analysis
 Jonathan Hung
 December 03, 2018
 
-true
-
 PUBG Finish Placement Prediction Exploratory Data Analysis
 ==========================================================
 
