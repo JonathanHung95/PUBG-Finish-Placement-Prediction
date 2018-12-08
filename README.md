@@ -11,7 +11,7 @@ The datasets can be obtained from here: https://www.kaggle.com/c/pubg-finish-pla
 This is an md file written in Rstudio that conducts an exploratory data analysis of the dataset to investigate its various features.  
 
 ## PUBG Preprocessing 
-An md file written in Rstudio that contains the code for preprocessing of the training and test datasets.  
+An md file written in Rstudio that contains the code for preprocessing of the training and test datasets.  This includes feature engineering, encoding and column dropping to reduce memory usage.
 
 ## Modelling
 
