@@ -10,9 +10,5 @@ The datasets can be obtained from here: https://www.kaggle.com/c/pubg-finish-pla
 ## PUBG EDA
 This is an md file written in Rstudio that conducts an exploratory data analysis of the dataset to investigate its various features.  
 
-## PUBG Preprocessing 
-An md file written in Rstudio that contains the code for preprocessing of the training and test datasets.  This includes feature engineering, encoding and column dropping to reduce memory usage.
-
-## Modelling
-
-Work in Progress...
+## PUBG Modelling Round 2
+MD file written in Rstudio containing pre-processing done to the dataset, feature engineering and the model created to fit the training data.  Model and resulting data were uploaded to Kaggle for a Mean Average Error (MAE) of 0.0384, currently in the top 37% of solutions.
